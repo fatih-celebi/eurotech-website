@@ -97,6 +97,9 @@ h1 {
     border-radius: 50% !important;
 }
 
-
+.contact-us {
+    background: url(./lib/img/map.jpeg) center center no-repeat;
+    background-size: cover;
+}
 
 
